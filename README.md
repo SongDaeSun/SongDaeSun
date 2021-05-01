@@ -43,19 +43,40 @@ Engine & Enviroment :
 
 
 # Education & Work Experience
-2018.03 : 고려대학교 컴퓨터학과 입학  
-|  
-2019.02 : NEXON NDM 게임개발 대회 2위 수상 in CAT&DOG  
-|  
-2019.11-2020.06 : 스타트업 펫페오톡 인공지능 엔지니어 입사  
-|  
-2020.03 : NCSOFT 2019 NCFollowShip 인공지능 공모전 2위 수상  
-|  
-2020.07-08 : NCSOFT GAME AI LAB 인턴쉽  
-|  
-2020.09 : 금융공학 복수전공 진입  
-|  
-2020.12-2021.02 : NCSOFT GAME AI LAB 인턴쉽  
+<h3> 
+  2018.03 : 고려대학교 컴퓨터학과 입학  
+  <img src="https://img.shields.io/badge/Education-339933?style=flat-square&logo=&logoColor=white"/> 
+</h3>
+
+<h3> 
+  2019.02 : NEXON NDM 게임개발 대회 2위 수상 in CAT&DOG  
+  <img src="https://img.shields.io/badge/Winning-993333?style=flat-square&logo=&logoColor=white"/> 
+</h3>
+
+<h3> 
+  2019.11-2020.06 : 스타트업 펫페오톡 인공지능 엔지니어 입사 
+  <img src="https://img.shields.io/badge/Work Experience-111199?style=flat-square&logo=&logoColor=white"/> 
+</h3>
+
+<h3> 
+  2020.03 : NCSOFT 2019 NCFollowShip 인공지능 공모전 2위 수상 
+  <img src="https://img.shields.io/badge/Winning-993333?style=flat-square&logo=&logoColor=white"/>
+</h3>
+
+<h3> 
+  2020.07-08 : NCSOFT GAME AI LAB 인턴쉽 
+  <img src="https://img.shields.io/badge/Work Experience-111199?style=flat-square&logo=&logoColor=white"/> 
+</h3> 
+
+<h3> 
+  2020.09 : 금융공학 복수전공 진입 
+  <img src="https://img.shields.io/badge/Education-339933?style=flat-square&logo=&logoColor=white"/>
+</h3>
+
+<h3> 
+  2020.12-2021.02 : NCSOFT GAME AI LAB 인턴쉽 
+  <img src="https://img.shields.io/badge/Work Experience-111199?style=flat-square&logo=&logoColor=white"/> 
+</h3> 
 
 # 프로젝트
 ## 개인 프로젝트
