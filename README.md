@@ -26,5 +26,5 @@ C, Java, C#, Unity, Python, ML, DL, RL, C++, SQL, TCP 통신, Html, CSS, JavaScr
 
 # Contact
 Phone : 010-1234-5678  
-email : backgom07@gmail.com  
-        backgom07@naver.com  
+email : 
+backgom07@gmail.com, backgom07@naver.com  
