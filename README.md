@@ -24,12 +24,14 @@ Web Library :
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>
 
 Back-End : 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/></a>
+
+AWS : 
 <img src="https://img.shields.io/badge/AWS RDS-FF9900?style=flat-square&logo=Amazon+AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=Amazon+AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS+Amplify&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=flat-square&logo=Amazon+DynamoDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/></a>
 
 DataBase : 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
