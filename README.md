@@ -1,9 +1,16 @@
-### Hi there 👋
+# SONG | 끊임없이 학습하고 적응하는 개발자
+# 보유기술
+C, Java, C#, Unity, Python, ML, DL, RL, C++, SQL, TCP 통신, Html, CSS, JavaScript, React, Vue, Electron, AWS
 
-<!--
-**SongDaeSun/SongDaeSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 경력
+2018.03 : 고려대학교 컴퓨터학과 입학
+2018.08 : Nexon 게임
+2020.03 : 
 
-Here are some ideas to get you started:
+# 프로젝트
+
+# Education
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
