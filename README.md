@@ -122,5 +122,4 @@ Game Engine :
 - 파생금융상품론 : https://github.com/SongDaeSun/Theory-of-Financial-Derivatives
 
 # Contact Me
-Phone : 010-8310-5930  
 email : backgom07@gmail.com, backgom07@naver.com  
