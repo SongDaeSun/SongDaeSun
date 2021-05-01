@@ -1,4 +1,4 @@
-# SONG | 끊임없이 학습하고 적응하는 개발자
+# SONG | 끊임없이 적응하고  개발자
 # 보유 기술 스택
 Languages : 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
