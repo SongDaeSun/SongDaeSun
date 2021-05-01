@@ -37,7 +37,7 @@
 ## Engine & Enviroment
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon+AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon+AWS&logoColor=white"/></a> (RDS, Lambda 등)
 <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS+Amplify&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=flat-square&logo=Amazon+DynamoDB&logoColor=white"/></a>
 <br>
