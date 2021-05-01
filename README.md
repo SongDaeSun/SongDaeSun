@@ -14,7 +14,7 @@ C, Java, C#, Unity, Python, ML, DL, RL, C++, SQL, TCP 통신, Html, CSS, JavaScr
 # 프로젝트
 
 # Education
-고려대학교 컴퓨터학과 재학 중
+고려대학교 컴퓨터학과 3학 재학 중  
 고려대학교 금융공학 복수전공
 
 - 🔭 I’m currently working on ...
