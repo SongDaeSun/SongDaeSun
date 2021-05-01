@@ -10,17 +10,26 @@ Languages :
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
+Neural Net Library : 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 
 FrameWork : 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=Xamarin&logoColor=white"/></a>
 
-Library : 
+Web Library : 
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+
+Back-End : 
+<img src="https://img.shields.io/badge/AWS RDS-FF9900?style=flat-square&logo=Amazon+AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=Amazon+AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS+Amplify&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=flat-square&logo=Amazon+DynamoDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/></a>
 
 DataBase : 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
@@ -32,14 +41,9 @@ IoT :
 <img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat-square&logo=Home+Assistant+Community+Store&logoColor=white"/></a>
 
 
-Engine & Enviroment : 
+Game Engine : 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS RDS-FF9900?style=flat-square&logo=Amazon+AWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=Amazon+AWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS+Amplify&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=flat-square&logo=Amazon+DynamoDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/></a>
+
 
 
 # Education & Work Experience
