@@ -1,4 +1,4 @@
-# SONG | 끊임없이 적응하고  개발자
+# SONG | 끊임없이 적응하고 깊어지는 개발자
 # 보유 기술 스택
 Languages : 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -44,12 +44,18 @@ Engine & Enviroment :
 
 # Education & Work Experience
 2018.03 : 고려대학교 컴퓨터학과 입학  
+|  
 2019.02 : NEXON NDM 게임개발 대회 2위 수상 in CAT&DOG  
+|  
 2019.11-2020.06 : 스타트업 펫페오톡 인공지능 엔지니어 입사  
+|  
 2020.03 : NCSOFT 2019 NCFollowShip 인공지능 공모전 2위 수상  
+|  
 2020.07-08 : NCSOFT GAME AI LAB 인턴쉽  
-2021.09 : 금융공학 복수전공 진입  
-2022.12-2021.02 : NCSOFT GAME AI LAB 인턴쉽  
+|  
+2020.09 : 금융공학 복수전공 진입  
+|  
+2020.12-2021.02 : NCSOFT GAME AI LAB 인턴쉽  
 
 # 프로젝트
 ## 개인 프로젝트
