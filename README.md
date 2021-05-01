@@ -42,7 +42,7 @@ Engine & Enviroment :
 <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/></a>
 
 
-# 경력
+# Education & Work Experience
 2018.03 : 고려대학교 컴퓨터학과 입학  
 2019.02 : NEXON NDM 게임개발 대회 2위 수상 in CAT&DOG  
 2019.11-2020.06 : 스타트업 펫페오톡 엔지니어 입사  
@@ -89,10 +89,6 @@ Engine & Enviroment :
 - 사회과학도를 위한 계량금융 : https://github.com/SongDaeSun/Introduction-to-Quantitative-Finance
 - 전산학특강 : https://github.com/SongDaeSun/Special-Lecture-for-Computer-Science
 - 파생금융상품론 : https://github.com/SongDaeSun/Theory-of-Financial-Derivatives
-
-# Education
-고려대학교 컴퓨터학과 3학년 재학 중  
-고려대학교 금융공학 복수전공
 
 # Contact Me
 Phone : 010-1234-5678  
