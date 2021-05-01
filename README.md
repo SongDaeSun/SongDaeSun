@@ -35,7 +35,7 @@ IoT :
 Engine & Enviroment : 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS RDS-232F3E?style=flat-square&logo=Amazon+AWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS Lambda-232F3E?style=flat-square&logo=Amazon+AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=Amazon+AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS+Amplify&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=flat-square&logo=Amazon+DynamoDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
