@@ -50,7 +50,7 @@ Game Engine :
 </h3>
 
 <h3> 
-  2019.02 : NEXON NDM 게임개발 대회 2위 수상 in CAT&DOG  
+  2019.02 : NEXON NDM 게임개발 대회 2위 수상 in 게임 개발 동아리 CAT&DOG  
   <img src="https://img.shields.io/badge/Winning-993333?style=flat-square&logo=&logoColor=white"/> 
 </h3>
 
