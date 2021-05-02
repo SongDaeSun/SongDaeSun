@@ -38,11 +38,6 @@ DataBase :
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
-IoT : 
-<img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat-square&logo=Home+Assistant&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=flat-square&logo=Home+Assistant+Community+Store&logoColor=white"/></a>
-
-
 Game Engine : 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 
@@ -124,4 +119,4 @@ Game Engine :
 - 파생금융상품론 : https://github.com/SongDaeSun/Theory-of-Financial-Derivatives
 
 # Contact Me
-email : backgom07@gmail.com, backgom07@naver.com  
+- email : backgom07@gmail.com, backgom07@naver.com  
