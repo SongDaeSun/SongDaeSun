@@ -75,7 +75,7 @@ Game Engine :
 </h3>
 
 <h3> 
-  2020.12-2021.02 : NCSOFT GAME AI LAB 인턴쉽 
+  2020.12-2021.02 : NCSOFT GAME AI LAB 근무 
   <img src="https://img.shields.io/badge/Work Experience-111199?style=flat-square&logo=&logoColor=white"/> 
 </h3> 
 
