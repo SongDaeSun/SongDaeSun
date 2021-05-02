@@ -55,7 +55,7 @@ Game Engine :
 </h3>
 
 <h3> 
-  2019.11-2020.06 : 스타트업 펫페오톡 인공지능  근무 
+  2019.11-2020.06 : 스타트업 펫페오톡 인공지능 엔지니어 근무 
   <img src="https://img.shields.io/badge/Work Experience-111199?style=flat-square&logo=&logoColor=white"/> 
 </h3>
 
