@@ -111,6 +111,6 @@ react, vue 등으로 간단한 웹 사이트 front-end, back-end를 구현할 �
 - 전산학특강 : https://github.com/SongDaeSun/Special-Lecture-for-Computer-Science
 - 파생금융상품론 : https://github.com/SongDaeSun/Theory-of-Financial-Derivatives
 
-# Contact Me & Info.
+# Contact Me & More Info.
 - email : backgom07@gmail.com, backgom07@naver.com  
 - Portfolio : https://www.notion.so/SongDaeSun-1a65fef1e4764c389b05016941a9f50f
