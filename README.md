@@ -1,47 +1,42 @@
 # SONG | 끊임없이 적응하고 깊어지는 개발자
 # 보유 기술 스택
 Languages : 
+
+## C/C++
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C+Sharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<br>
+C/C++을 사용하여 게임 엔진을 개발하였습니다.  
+multi-thread를 사용하여 게임진행 속도를 높히고,  
+tcp 통신을 통해 게임을 한꺼번에 여러번 실행하여 빠르게 data를 모을 수 있도록 구현하였습니다.  
+
+## Python, Numpy, Pytorch
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+<br>
+python과 인공지능 라이브러리를 이용해서 다양한 Neural Net을 개발할 수 있습니다.  
+지도학습, 비지도학습, 강화학습 전부 개발해 본 경험있습니다.
+
+## Unity Game Engine
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C+Sharp&logoColor=white"/></a>
+<br>
+Unity 3D Game Engine을 사용하여 게임 개발을 해보았습니다.
+
+## Web
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-
-Neural Net Library : 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-
-FrameWork : 
+<br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=Xamarin&logoColor=white"/></a>
-
-Web Library : 
-<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>
-
-Back-End : 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/></a>
-
-AWS : 
-<img src="https://img.shields.io/badge/AWS RDS-FF9900?style=flat-square&logo=Amazon+AWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=Amazon+AWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS+Amplify&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=flat-square&logo=Amazon+DynamoDB&logoColor=white"/></a>
-
-DataBase : 
+<br>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-
-Game Engine : 
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
-
-
+<br>
+react, vue 등으로 간단한 웹 사이트 front-end, back-end를 구현할 수 있습니다.
 
 # Education & Work Experience
 <h3> 
