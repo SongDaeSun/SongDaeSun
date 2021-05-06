@@ -76,7 +76,6 @@ react, vue 등으로 간단한 웹 사이트 front-end, back-end를 구현할 �
 ## 개인 프로젝트
 - 단어장 프로그램 : https://github.com/SongDaeSun/WordBook
 - localStorage를 이용한 링크 저장 페이지 : https://github.com/SongDaeSun/DPM-Controller
-- K-WEB 정회원 승격 프로젝트 과제 : https://github.com/SongDaeSun/online-learning-service
 
 ## 대학교 수업
 ### 2018년 1학기
