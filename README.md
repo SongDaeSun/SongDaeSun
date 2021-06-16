@@ -75,44 +75,44 @@ react, vue 등으로 간단한 웹 사이트 front-end, back-end를 구현할 �
 # 프로젝트
 ## 개인 프로젝트
 - 단어장 프로그램 : https://github.com/SongDaeSun/WordBook
-- localStorage를 이용한 링크 저장 페이지 : https://github.com/SongDaeSun/DPM-Controller
-- E-Learning System 웹페이지 구현 : https://github.com/SongDaeSun/e-learning-system
+- localStorage를 이용한 링크 저장 페이지 : https://github.com/DaeSun-Web-Factory/DPM-Controller
+- E-Learning System 웹페이지 구현 : https://github.com/DaeSun-Web-Factory/e-learning-system
 
 ## 팀 프로젝트
-- JunctionX2021 해커톤 : https://github.com/SongDaeSun/JunctionXSeoul-2021-Explanation
+- JunctionX2021 해커톤 : https://github.com/Competitions-And-Hackathons/JunctionXSeoul-2021-Explanation
 
 ## 대학교 수업
 ### 2018년 1학기
-- 컴퓨터프로그래밍I : https://github.com/SongDaeSun/Computer-Programming-I
-- 전산수학I : https://github.com/SongDaeSun/Mathmatics-for_Computer_Science-I
-- 하이퍼텍스트와 계산가능성 : https://github.com/SongDaeSun/Hypertext-and-Computability
+- 컴퓨터프로그래밍I : https://github.com/Korea-Univ-Lectures/Computer-Programming-I
+- 전산수학I : https://github.com/Korea-Univ-Lectures/Mathmatics-for_Computer_Science-I
+- 하이퍼텍스트와 계산가능성 : https://github.com/Korea-Univ-Lectures/Hypertext-and-Computability
 
 ### 2018년 2학기
-- 컴퓨터 프로그래밍II : https://github.com/SongDaeSun/Computer-Programming-II
-- 전산수학II : https://github.com/SongDaeSun/Mathmatics-for-Computer-Science-II
-- 컴퓨터 언어 및 연습 : https://github.com/SongDaeSun/Computer-Languages-Lab
+- 컴퓨터 프로그래밍II : https://github.com/Korea-Univ-Lectures/Computer-Programming-II
+- 전산수학II : https://github.com/Korea-Univ-Lectures/Mathmatics-for-Computer-Science-II
+- 컴퓨터 언어 및 연습 : https://github.com/Korea-Univ-Lectures/Computer-Languages-Lab
 
 ### 2019년 1학기
-- 논리설계 : https://github.com/SongDaeSun/Digital-Logic-Design
-- 인공지능 : https://github.com/SongDaeSun/Artificial-Intelligence
-- 계산이론 : https://github.com/SongDaeSun/Theory-of-Computation
-- 이산수학 : https://github.com/SongDaeSun/Discrete-Mathematics
-- 인터넷 프로토콜 : https://github.com/SongDaeSun/Internet-Protocols
-- 자료구조 : https://github.com/SongDaeSun/Data-Structure
+- 논리설계 : https://github.com/Korea-Univ-Lectures/Digital-Logic-Design
+- 인공지능 : https://github.com/Korea-Univ-Lectures/Artificial-Intelligence
+- 계산이론 : https://github.com/Korea-Univ-Lectures/Theory-of-Computation
+- 이산수학 : https://github.com/Korea-Univ-Lectures/Discrete-Mathematics
+- 인터넷 프로토콜 : https://github.com/Korea-Univ-Lectures/Internet-Protocols
+- 자료구조 : https://github.com/Korea-Univ-Lectures/Data-Structure
 
 ### 2020년 1학기
-- 볼록최적화 입문 : https://github.com/SongDaeSun/Introduction-to-Convex-Optimization
-- 알고리즘 : https://github.com/SongDaeSun/Algorithms
-- 운영체제 : https://github.com/SongDaeSun/Operating-System
-- 통계계산소프트웨어 : https://github.com/SongDaeSun/Statistical-Computer-Software
-- 확룰과통계및연습 : https://github.com/SongDaeSun/Probability-and-Statistics-with-Lab
+- 볼록최적화 입문 : https://github.com/Korea-Univ-Lectures/Introduction-to-Convex-Optimization
+- 알고리즘 : https://github.com/Korea-Univ-Lectures/Algorithms
+- 운영체제 : https://github.com/Korea-Univ-Lectures/Operating-System
+- 통계계산소프트웨어 : https://github.com/Korea-Univ-Lectures/Statistical-Computer-Software
+- 확룰과통계및연습 : https://github.com/Korea-Univ-Lectures/Probability-and-Statistics-with-Lab
 
 ### 2020년 2학기
-- 데이터로 표현하는 세상 : https://github.com/SongDaeSun/Computing-the-World
-- 딥러닝 : https://github.com/SongDaeSun/Deep-Learning
-- 사회과학도를 위한 계량금융 : https://github.com/SongDaeSun/Introduction-to-Quantitative-Finance
-- 전산학특강 : https://github.com/SongDaeSun/Special-Lecture-for-Computer-Science
-- 파생금융상품론 : https://github.com/SongDaeSun/Theory-of-Financial-Derivatives
+- 데이터로 표현하는 세상 : https://github.com/Korea-Univ-Lectures/Computing-the-World
+- 딥러닝 : https://github.com/Korea-Univ-Lectures/Deep-Learning
+- 사회과학도를 위한 계량금융 : https://github.com/Korea-Univ-Lectures/Introduction-to-Quantitative-Finance
+- 전산학특강 : https://github.com/Korea-Univ-Lectures/Special-Lecture-for-Computer-Science
+- 파생금융상품론 : https://github.com/Korea-Univ-Lectures/Theory-of-Financial-Derivatives
 
 # Contact Me & More Info.
 - email : backgom07@gmail.com, backgom07@naver.com  
