@@ -74,6 +74,9 @@ react, vue 등으로 간단한 웹 사이트 front-end, back-end를 구현할 �
 
 
 # Organiations
+많은 수의 Repository를 효율적으로 관리하기 위해서 주제별로 다양한 Organization을 만들었습니다.  
+그 내용은 다음과 같습니다.
+
 ## <img src="https://avatars.githubusercontent.com/u/85984858?s=200&v=4" width="30"/></a> DaeSun-Practices 
 각종 컴퓨터 언어, FrameWork, Library을 연습하고, 테스트해본 repository입니다.  
 따라서 제대로 작동이 되지 않을 수도 있습니다.  
@@ -102,6 +105,13 @@ Organiation 바로가기 : https://github.com/Happy-Terminators
 ## <img src="https://avatars.githubusercontent.com/u/85987528?s=200&v=4" width="30"/></a> THIS-IS-THE-END-GAME  
 게임 save file이나 직접 만들었던 게임 repo입니다.  
 Organiation 바로가기 : https://github.com/THIS-IS-THE-END-GAME
+
+## <img src="https://avatars.githubusercontent.com/u/85989173?s=200&v=4" width="30"/></a> Competitions-And-Hackathons  
+참여했던 대회나 해커톤 repo입니다.  
+Organiation 바로가기 : https://github.com/Competitions-And-Hackathons
+
+## <img src="https://avatars.githubusercontent.com/u/85990323?s=200&v=4" width="30"/></a> Secret-Association  
+**[DATA EXPUNGED]**
 
 
 # 프로젝트
