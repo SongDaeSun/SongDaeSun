@@ -96,8 +96,8 @@ Organization 바로가기 : https://github.com/DaeSun-Web-Factory
 ## <img src="https://avatars.githubusercontent.com/u/85986962?s=200&v=4" width="30"/></a> Electron-Alchemy  
 electron을 이용하여 StandAlone App을 개발하기 위한 ~~삽질~~ 여정을 기록하고 있습니다.  
 이 Organization의 존재 의의와 더 자세한 여정이 궁금하다면 아래 링크를 참조하세요.  
-Organization 설명 : https://github.com/Electron-Alchemy/Purpose-of-This-Organization
-Organization 바로가기 : https://github.com/Electron-Alchemy
+Organization 설명 : https://github.com/Electron-Alchemy/Purpose-of-This-Organization  
+Organization 바로가기 : https://github.com/Electron-Alchemy  
 
 ## <img src="https://avatars.githubusercontent.com/u/85987386?s=200&v=4" width="30"/></a> Happy-Terminators  
 ~~울트론 양성~~ AI, ML, DL, RL 등의 repo입니다.  
