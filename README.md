@@ -71,6 +71,12 @@ react, vue 등으로 간단한 웹 사이트 front-end, back-end를 구현할 �
   2020.12-2021.02 : NCSOFT GAME AI LAB 근무 
   <img src="https://img.shields.io/badge/Work Experience-111199?style=flat-square&logo=&logoColor=white"/> 
 </h3> 
+# Organiations
+## DaeSun-Practices
+각종 컴퓨터 언어, FrameWork, Library을 연습하고, 테스트해본 repository입니다.  
+따라서 제대로 작동이 되지 않을 수도 있습니다.  
+~~한마디로 그냥 짬통이라는 뜻입니다.~~  
+바로가기 : https://github.com/DaeSun-Practices
 
 # 프로젝트
 ## 개인 프로젝트
