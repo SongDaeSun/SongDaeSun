@@ -110,9 +110,6 @@ Organiation 바로가기 : https://github.com/THIS-IS-THE-END-GAME
 참여했던 대회나 해커톤 repo입니다.  
 Organiation 바로가기 : https://github.com/Competitions-And-Hackathons
 
-## <img src="https://avatars.githubusercontent.com/u/85990323?s=200&v=4" width="30"/></a> Secret-Association  
-**[DATA EXPUNGED]**
-
 
 # 프로젝트
 ## 개인 프로젝트
