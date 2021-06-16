@@ -78,21 +78,22 @@ react, vue 등으로 간단한 웹 사이트 front-end, back-end를 구현할 �
 각종 컴퓨터 언어, FrameWork, Library을 연습하고, 테스트해본 repository입니다.  
 따라서 제대로 작동이 되지 않을 수도 있습니다.  
 ~~한마디로 그냥 짬통이라는 뜻입니다.~~  
-바로가기 : https://github.com/DaeSun-Practices
+Organiation 바로가기 : https://github.com/DaeSun-Practices
 
 ## <img src="https://avatars.githubusercontent.com/u/85986619?s=200&v=4" width="30"/></a> Korea-Univ-Lectures  
 고려대학교 학부 재학시절 들은 강의를 정리해 놓을 것입니다.  
 분명히 저작권이 있는 레포이며, 표절과 기타 부정행위는 엄격히 금지합니다.  
 이에 대한 모든 책임은 본인에게 있습니다.  
-바로가기 : https://github.com/Korea-Univ-Lectures
+Organiation 바로가기 : https://github.com/Korea-Univ-Lectures
 
 ## <img src="https://avatars.githubusercontent.com/u/85987255?s=200&v=4" width="30"/></a> DaeSun-Web-Factory  
-웹 개발 repo입니다.
-https://github.com/DaeSun-Web-Factory
+웹 개발 repo입니다.  
+Organiation 바로가기 : https://github.com/DaeSun-Web-Factory
 
 ## <img src="https://avatars.githubusercontent.com/u/85986962?s=200&v=4" width="30"/></a> Electron-Alchemy  
-electron을 이용하여 StandAlone App을 개발하기 위한 ~~삽질~~ 여정을 기록하고 있습니다.
-https://github.com/Electron-Alchemy
+electron을 이용하여 StandAlone App을 개발하기 위한 ~~삽질~~ 여정을 기록하고 있습니다.  
+이 Organization의 존재 의의와 더 자세한 ~~삽질~~ 여정이 궁금하다면 오른쪽 링크를 참조하세요.
+Organiation 바로가기 : https://github.com/Electron-Alchemy
 
 
 # 프로젝트
