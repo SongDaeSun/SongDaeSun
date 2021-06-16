@@ -80,6 +80,12 @@ react, vue 등으로 간단한 웹 사이트 front-end, back-end를 구현할 �
 ~~한마디로 그냥 짬통이라는 뜻입니다.~~  
 바로가기 : https://github.com/DaeSun-Practices
 
+## <img src="https://avatars.githubusercontent.com/u/85986619?s=200&v=4" width="30"/></a> Korea-Univ-Lectures  
+고려대학교 학부 재학시절 들은 강의를 정리해 놓을 것입니다.  
+분명히 저작권이 있는 레포이며, 표절과 기타 부정행위는 엄격히 금지합니다.  
+이에 대한 모든 책임은 본인에게 있습니다.  
+바로가기 : https://github.com/Korea-Univ-Lectures
+
 # 프로젝트
 ## 개인 프로젝트
 - 단어장 프로그램 : https://github.com/SongDaeSun/WordBook
