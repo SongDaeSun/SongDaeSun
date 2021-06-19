@@ -79,9 +79,11 @@ react, vue 등으로 간단한 웹 사이트 front-end, back-end를 구현할 �
 
 ## <img src="https://avatars.githubusercontent.com/u/85984858?s=200&v=4" width="30"/></a> DaeSun-Practices 
 각종 컴퓨터 언어, FrameWork, Library을 연습하고, 테스트해본 repository입니다.  
-따라서 제대로 작동이 되지 않을 수도 있습니다.  
-~~한마디로 그냥 짬통이라는 뜻입니다.~~  
 Organization 바로가기 : https://github.com/DaeSun-Practices
+
+## <img src="https://avatars.githubusercontent.com/u/85987386?s=200&v=4" width="30"/></a> Happy-Terminators  
+AI, ML, DL, RL 등의 repo입니다.  
+Organization 바로가기 : https://github.com/Happy-Terminators
 
 ## <img src="https://avatars.githubusercontent.com/u/85986619?s=200&v=4" width="30"/></a> Korea-Univ-Lectures  
 고려대학교 학부 재학시절 들은 강의를 정리해 놓을 것입니다.  
@@ -98,10 +100,6 @@ electron을 이용하여 StandAlone App을 개발하기 위한 ~~삽질~~ 여정
 이 Organization의 존재 의의와 더 자세한 여정이 궁금하다면 아래 링크를 참조하세요.  
 Organization 설명 : https://github.com/Electron-Alchemy/Purpose-of-This-Organization  
 Organization 바로가기 : https://github.com/Electron-Alchemy  
-
-## <img src="https://avatars.githubusercontent.com/u/85987386?s=200&v=4" width="30"/></a> Happy-Terminators  
-~~울트론 양성~~ AI, ML, DL, RL 등의 repo입니다.  
-Organization 바로가기 : https://github.com/Happy-Terminators
 
 ## <img src="https://avatars.githubusercontent.com/u/85987528?s=200&v=4" width="30"/></a> THIS-IS-THE-END-GAME  
 게임 save file이나 직접 만들었던 게임 repo입니다.  
