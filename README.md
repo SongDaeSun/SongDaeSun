@@ -82,7 +82,7 @@ react, vue 등으로 간단한 웹 사이트 front-end, back-end를 구현할 �
 Organization 바로가기 : https://github.com/DaeSun-Practices
 
 ## <img src="https://avatars.githubusercontent.com/u/85987386?s=200&v=4" width="30"/></a> Happy-Terminators  
-AI, ML, DL, RL 등의 repo입니다.  
+AI, ML, DL, RL 등의 Organization입니다.  
 Organization 바로가기 : https://github.com/Happy-Terminators
 
 ## <img src="https://avatars.githubusercontent.com/u/85986619?s=200&v=4" width="30"/></a> Korea-Univ-Lectures  
@@ -110,7 +110,7 @@ Organization 바로가기 : https://github.com/Docker-Worlds
 Organization 바로가기 : https://github.com/THIS-IS-THE-END-GAME
 
 ## <img src="https://avatars.githubusercontent.com/u/85989173?s=200&v=4" width="30"/></a> Competitions-And-Hackathons  
-참여했던 대회나 해커톤 repo입니다.  
+참여했던 대회나 해커톤 Organization입니다.  
 Organization 바로가기 : https://github.com/Competitions-And-Hackathons
 
 
