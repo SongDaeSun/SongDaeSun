@@ -79,6 +79,7 @@ react, vue 등으로 간단한 웹 사이트 front-end, back-end를 구현할 �
 
 ## <img src="https://avatars.githubusercontent.com/u/85984858?s=200&v=4" width="30"/></a> DaeSun-Practices 
 각종 컴퓨터 언어, FrameWork, Library을 연습하고, 테스트해본 repository입니다.  
+~~한마디로 짬통이라는...~~  
 Organization 바로가기 : https://github.com/DaeSun-Practices
 
 ## <img src="https://avatars.githubusercontent.com/u/85987386?s=200&v=4" width="30"/></a> Happy-Terminators  
