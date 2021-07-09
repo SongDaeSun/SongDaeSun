@@ -34,7 +34,7 @@ Unity 3D Game Engine을 사용하여 게임 개발을 해보았습니다.
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <br>
-react, vue 등으로 간단한 웹 사이트 front-end, back-end를 구현할 수 있습니다.
+react, vue 등으로 간단한 쇼핑몰  사이트 front-end, back-end를 구현할 수 있습니다.
 
 # Education & Work Experience
 <h3> 
