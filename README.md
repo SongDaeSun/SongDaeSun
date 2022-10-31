@@ -1,5 +1,13 @@
 # SONG | 끊임없이 적응하고 깊어지는 개발자
 # 보유 기술 스택
+## Python, Numpy, Pytorch
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+<br>
+python과 인공지능 라이브러리를 이용해서 다양한 Neural Net을 개발할 수 있습니다.  
+지도학습, 비지도학습, 강화학습 전부 개발해 본 경험있습니다.
+
 ## C/C++
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
@@ -8,13 +16,7 @@ C/C++을 사용하여 게임 엔진을 개발하였습니다.
 multi-thread를 사용하여 게임진행 속도를 높히고,  
 tcp 통신을 통해 게임을 한꺼번에 여러번 실행하여 빠르게 data를 모을 수 있도록 구현하였습니다.  
 
-## Python, Numpy, Pytorch
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-<br>
-python과 인공지능 라이브러리를 이용해서 다양한 Neural Net을 개발할 수 있습니다.  
-지도학습, 비지도학습, 강화학습 전부 개발해 본 경험있습니다.
+
 
 ## Unity Game Engine
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
