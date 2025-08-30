@@ -1,4 +1,4 @@
-# SONG | 끊임없이 적응하고 깊어지는 개발자
+# SONG DAE SUN | 신뢰를 주는 End-to-End 개발자
 # 보유 기술 스택
 ## Python, Numpy, Pytorch
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
@@ -36,7 +36,7 @@ Unity 3D Game Engine을 사용하여 게임 개발을 해보았습니다.
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <br>
-react, vue 등으로 간단한 쇼핑몰  사이트 front-end, back-end를 구현할 수 있습니다.
+react, nodejs 등으로 복잡한 대학교 LMS front-end, back-end, DB, 운영관리까지를 했습니다.
 
 # Education & Work Experience
 <h3> 
@@ -74,6 +74,15 @@ react, vue 등으로 간단한 쇼핑몰  사이트 front-end, back-end를 구�
   <img src="https://img.shields.io/badge/Work Experience-111199?style=flat-square&logo=&logoColor=white"/> 
 </h3>
 
+<h3> 
+  2023.02 : 고려대학교 졸업
+  <img src="https://img.shields.io/badge/Education-339933?style=flat-square&logo=&logoColor=white"/>
+</h3>
+
+<h3> 
+  2023.07 ~ 2025.01 : 육군본부 소프트웨어 개발병 군 복무 
+  <img src="https://img.shields.io/badge/Military Duty-536349?style=flat-square&logo=&logoColor=white"/>
+</h3>
 
 # Organizations
 많은 수의 Repository를 효율적으로 관리하기 위해서 주제별로 다양한 Organization을 만들었습니다.  
