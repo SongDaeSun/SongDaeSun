@@ -80,7 +80,7 @@ react, nodejs 등으로 복잡한 대학교 LMS front-end, back-end, DB, 운영�
 </h3>
 
 <h3> 
-  2023.07 ~ 2025.01 : 육군본부 소프트웨어 개발병 군 복무 
+  2023.07-2025.01 : 육군본부 소프트웨어 개발병 군 복무 
   <img src="https://img.shields.io/badge/Military Duty-536349?style=flat-square&logo=&logoColor=white"/>
 </h3>
 
