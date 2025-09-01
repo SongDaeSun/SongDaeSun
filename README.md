@@ -1,4 +1,4 @@
-# SONG DAE SUN | 신뢰를 주는 End-to-End 개발자
+# SONG DAE SUN | 안되는게 없는 개발자
 # 보유 기술 스택
 ## Python, Numpy, Pytorch
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
